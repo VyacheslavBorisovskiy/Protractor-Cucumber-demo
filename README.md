@@ -47,3 +47,15 @@ npm install -g chromedriver
 - "cucumber_test";
 - under "cucumber_test" create "features" and "step_definitions" folders
 
+11. Adding scrips into package.json
+
+{
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  }
+  
+  12. Add the following dependencies in package.json
+
+"assert": "^1.4.1",
+"chromedriver": "^2.24.1",
+"geckodriver": "^1.1.3"
