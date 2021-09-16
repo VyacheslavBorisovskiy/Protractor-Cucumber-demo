@@ -3,7 +3,7 @@
 
 1. Init a local repo
 
-cd /Users/viacheslavborysovskyi/Documents/e2e/Cucumber/Selenium-Cucumber-demo/e2e
+cd /Users/viacheslavborysovskyi/Documents/e2e/Cucumber/Selenium-Cucumber-demo/
  
 git init 
 
@@ -17,6 +17,14 @@ git clone ssh://[link-to-remote]
 
 git remote add origin [link-to-remote]
 
-5. Creating a package.jsone file
+5. Creating a package.json file
+
+cd /Users/viacheslavborysovskyi/Documents/e2e/Cucumber/Selenium-Cucumber-demo/e2e/
 
 npm init
+
+6. Creating tsconfig.js
+
+cd /Users/viacheslavborysovskyi/Documents/e2e/Cucumber/Selenium-Cucumber-demo/e2e/
+
+tsc --init
