@@ -28,3 +28,22 @@ npm init
 cd /Users/viacheslavborysovskyi/Documents/e2e/Cucumber/Selenium-Cucumber-demo/e2e/
 
 tsc --init
+
+7. Installing Cucumber (https://www.lambdatest.com/blog/cucumberjs-tutorial-selenium/)
+ 
+npm install -g cucumber
+
+npm install  --save-dev cucumber
+
+8. Installing Selenium Web Driver
+
+npm install selenium-webdriver
+
+9. Installing Browser Driver
+
+npm install -g chromedriver
+
+10. Create test directories:
+- "cucumber_test";
+- under "cucumber_test" create "features" and "step_definitions" folders
+
