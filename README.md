@@ -56,8 +56,10 @@ npm install -g chromedriver
   
   12. Add the following dependencies in package.json
 
-"assert": "^1.4.1",
+"assert": "^1.4.1", // it appears to me for Selenium
 
 "chromedriver": "^2.24.1",
 
 "geckodriver": "^1.1.3"
+
+13. 
