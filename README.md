@@ -1,4 +1,4 @@
-# Selenium-Cucumber-demo
+# Protractor-Cucumber-demo
 
 
 1. Init a local repo
